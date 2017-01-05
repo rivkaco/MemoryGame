@@ -1,0 +1,24 @@
+#container {
+/*height: 700px;
+*/
+background-image: url('../images/bg.jpg');
+
+}
+.faceDownCard {
+	margin-top: 20px;
+/*	background-image: url('../images/texture.jpg');
+*/	height: 150px;
+	margin-left: 30px;
+	text-align: center;
+
+
+}
+
+.horizontal {
+	height: 100px;
+}
+
+.turning {
+width: 100px;
+height: 100px;
+}
